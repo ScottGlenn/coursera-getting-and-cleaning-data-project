@@ -24,7 +24,7 @@ The following are the steps to execute the analysis in the code.
 17. Calculate the mean of each variable for each subject and each activity
 18. Write tidydata.txt file
 
-##Codebook 
+##Codebook Description
 ###Subject and Activity
 These variables identify the unique subject/activity pair the variables relate to:
  - Subject (integer)
